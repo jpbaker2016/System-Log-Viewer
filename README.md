@@ -1,7 +1,8 @@
 # System-Log-Viewer
 Author: Jacob Baker jpbaker2016@gmail.com
 
-Requirements:\n
+Requirements:
+
 pywin32
  - Can use the command "pip install pywin32" to download
 
