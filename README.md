@@ -5,6 +5,8 @@ Requirements:
 
 pywin32
  - Can use the command "pip install pywin32" to download
+ 
+ Instructions:
 
 To use you should have python installed on the computer you are using it on. Once downloaded, just double click onto the LogAnalysis.py file, and it should pop up in command line. If it doesn't you may have to open up command line and type "python LogAnalysis.py" to run it.
 
